@@ -82,7 +82,3 @@ e-commerce-sentiment/
 Final project for *Natural Language Processing - Semester 6*
 
 ---
-
-## 📜 Lisensi
-
-Proyek ini dilisensikan di bawah MIT License.
